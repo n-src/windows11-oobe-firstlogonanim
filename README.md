@@ -3,7 +3,9 @@
 
 # About
 The animation which plays when a new User Profile is Logged On for the first time.
-Originally located at "C:\Windows\WinSxS\amd64_microsoft-windows-oobe-firstlogonanim_31bf3856ad364e35_10.0.22621.1_none_b4fbee0b2f1fa14d\msoobeFirstLogonAnim.html" on OS Build 22621.601. 
+Originally located at "C:\Windows\WinSxS\amd64_microsoft-windows-oobe-firstlogonanim_31bf3856ad364e35_10.0.22621.1_none_b4fbee0b2f1fa14d\msoobeFirstLogonAnim.html" on OS Build 22621.601.
+
+View in browser: https://n-src.github.io/windows11-oobe-firstlogonanim/FirstLogonAnim.html
 
 # License
 This is an internal Windows system file. You are prohibited from using the code within this repository in part or in whole without the express written consent of the Microsoft Corporation. The code within this repository has been uploaded for strinctly for archival, educational, and research purposes only.
