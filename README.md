@@ -1,4 +1,5 @@
-# Microsoft Windows® 11 First Logon Animation
+# Microsoft Windows® 11 First Logon Animation (FirstLogonAnim.html)
+![Hero image for Microsoft Windows® 11 First Logon Animation (FirstLogonAnim.html)](doc/images/overview/FirstLogonBackground.png)
 
 # About
 The animation which plays when a new User Profile is Logged On for the first time.
