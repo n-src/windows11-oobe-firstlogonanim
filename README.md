@@ -12,4 +12,5 @@ This is an internal Windows system file. You are prohibited from using the code 
 
 # ©Copyright Disclaimer
 Under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. The author or uploader of this file claims no rights to any code contained within the repository 
+
 © 2022 - All rights reserved by relevant rightsholders. ⸻ No rights reserved by repository owner. 
